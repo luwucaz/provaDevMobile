@@ -14,7 +14,7 @@ Para instalar dependencias
 npm install
 ```
 
-Para executar o programa
+Para executar o programa (lembre-se de selecionar a opção web com o botão W)
 
 ```
 npx expo start
